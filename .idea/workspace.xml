@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9fbb062-2cc8-4fdd-a22b-7bf97437515c" name="Changes" comment="add mergeTwoLists">
-      <change beforePath="$PROJECT_DIR$/src/main/java/addTwoNumbers/addTwoNumbers.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/addTwoNumbers/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lengthOfLastWord/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/removeDuplicates/removeDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/removeDuplicates/removeElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strStr/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mergeTwoLists/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mergeTwoLists/ListNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -46,7 +52,33 @@
       <recent name="mergeTwoLists" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.lengthOfLastWord.Solution">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="addTwoNumbers.Solution" />
+      <module name="leetcodePractices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="addTwoNumbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lengthOfLastWord.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lengthOfLastWord.Solution" />
+      <module name="leetcodePractices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lengthOfLastWord.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="mergeTwoLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mergeTwoLists.mergeTwoLists" />
       <module name="leetcodePractices" />
@@ -62,6 +94,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lengthOfLastWord.Solution" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.mergeTwoLists" />
       </list>
     </recent_temporary>
@@ -96,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661459451873</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add mergeTwoLists">
+      <created>1661459858773</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661459858773</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
