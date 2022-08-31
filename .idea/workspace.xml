@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9fbb062-2cc8-4fdd-a22b-7bf97437515c" name="Changes" comment="add mergeTwoLists">
-      <change afterPath="$PROJECT_DIR$/src/main/java/addTwoNumbers/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lengthOfLastWord/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/removeDuplicates/removeDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/removeDuplicates/removeElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strStr/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mergeTwoLists/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mergeTwoLists/ListNode.java" afterDir="false" />
+    <list default="true" id="f9fbb062-2cc8-4fdd-a22b-7bf97437515c" name="Changes" comment="added new exercises">
+      <change beforePath="$PROJECT_DIR$/src/main/java/addTwoNumbers/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/addTwoNumbers/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java/addTwoNumbers" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -137,7 +131,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661459858773</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added new exercises">
+      <created>1661968412921</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661968412921</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added new exercises">
+      <created>1661968627227</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661968627227</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +162,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="add mergeTwoLists" />
-    <option name="LAST_COMMIT_MESSAGE" value="add mergeTwoLists" />
+    <MESSAGE value="added new exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new exercises" />
   </component>
 </project>
