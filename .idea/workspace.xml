@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9fbb062-2cc8-4fdd-a22b-7bf97437515c" name="Changes" comment="added new exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/climbStairs/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/maxArea/maxArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pivotIndex/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/runningSum/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +48,13 @@
       <recent name="mergeTwoLists" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.maxArea">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="addTwoNumbers.Solution" />
+      <option name="MAIN_CLASS_NAME" value="pivotIndex.Solution" />
       <module name="leetcodePractices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="addTwoNumbers.*" />
+          <option name="PATTERN" value="pivotIndex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lengthOfLastWord.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lengthOfLastWord.Solution" />
+    <configuration name="lengthOfLongestSubstring.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lengthOfLongestSubstring.Solution" />
       <module name="leetcodePractices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lengthOfLastWord.*" />
+          <option name="PATTERN" value="lengthOfLongestSubstring.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.lengthOfLongestSubstring.Solution" />
         <item itemvalue="Application.maxArea" />
         <item itemvalue="Application.mySqrt.Solution" />
         <item itemvalue="Application.plusOne.Solution" />
-        <item itemvalue="Application.lengthOfLastWord.Solution" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662027277050</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added new exercises">
+      <created>1662054574071</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1662054574071</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
