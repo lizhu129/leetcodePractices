@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9fbb062-2cc8-4fdd-a22b-7bf97437515c" name="Changes" comment="added new exercises">
-      <change beforePath="$PROJECT_DIR$/src/main/java/addTwoNumbers/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/addTwoNumbers/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mySqrt/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/plusOne/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java/addTwoNumbers" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,7 +48,7 @@
       <recent name="mergeTwoLists" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lengthOfLastWord.Solution">
+  <component name="RunManager" selected="Application.mySqrt.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="addTwoNumbers.Solution" />
       <module name="leetcodePractices" />
@@ -86,8 +88,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="mySqrt.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mySqrt.Solution" />
+      <module name="leetcodePractices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mySqrt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="plusOne.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="plusOne.Solution" />
+      <module name="leetcodePractices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="plusOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mySqrt.Solution" />
+        <item itemvalue="Application.plusOne.Solution" />
         <item itemvalue="Application.lengthOfLastWord.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.mergeTwoLists" />
@@ -145,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661968627227</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added new exercises">
+      <created>1661968738021</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661968738021</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
