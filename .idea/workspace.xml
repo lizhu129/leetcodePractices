@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9fbb062-2cc8-4fdd-a22b-7bf97437515c" name="Changes" comment="added new exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/construct2DArray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/maxProfit/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singleNumber/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/productExceptSelf/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +47,7 @@
       <recent name="mergeTwoLists" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.construct2DArray.Solution">
+  <component name="RunManager" selected="Application.productExceptSelf.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pivotIndex.Solution" />
       <module name="leetcodePractices" />
@@ -76,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lengthOfLongestSubstring.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lengthOfLongestSubstring.Solution" />
+    <configuration name="missingNumber.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="missingNumber.Solution" />
       <module name="leetcodePractices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lengthOfLongestSubstring.*" />
+          <option name="PATTERN" value="missingNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="missingNumber.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="missingNumber.Solution" />
+    <configuration name="productExceptSelf.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="productExceptSelf.Solution" />
       <module name="leetcodePractices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="missingNumber.*" />
+          <option name="PATTERN" value="productExceptSelf.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.productExceptSelf.Solution" />
         <item itemvalue="Application.construct2DArray.Solution" />
         <item itemvalue="Application.singleNumber.Solution" />
         <item itemvalue="Application.missingNumber.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.lengthOfLongestSubstring.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662116357312</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="added new exercises">
+      <created>1662192873154</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1662192873154</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
