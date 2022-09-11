@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9fbb062-2cc8-4fdd-a22b-7bf97437515c" name="Changes" comment="added new exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/findMedianSortedArrays/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/longestPalindrome/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spiralOrder/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/convertZigZag/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +47,7 @@
       <recent name="mergeTwoLists" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="longestPalindrome.Solution" />
       <module name="leetcodePractices" />
@@ -117,10 +115,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.construct2DArray.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.findDuplicates.Solution" />
         <item itemvalue="Application.productExceptSelf.Solution" />
-        <item itemvalue="Application.construct2DArray.Solution" />
         <item itemvalue="Application.singleNumber.Solution" />
       </list>
     </recent_temporary>
@@ -267,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662382984484</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="added new exercises">
+      <created>1662894523145</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1662894523145</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
