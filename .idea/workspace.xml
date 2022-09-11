@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9fbb062-2cc8-4fdd-a22b-7bf97437515c" name="Changes" comment="added new exercises">
+      <change afterPath="$PROJECT_DIR$/src/main/java/findMedianSortedArrays/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/longestPalindrome/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spiralOrder/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/setZeroes/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/setZeroes/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +49,20 @@
       <recent name="mergeTwoLists" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.findDuplicates.Solution">
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="longestPalindrome.Solution" />
+      <module name="leetcodePractices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="longestPalindrome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="construct2DArray.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="construct2DArray.Solution" />
       <module name="leetcodePractices" />
@@ -67,19 +82,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="findDuplicates.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="missingNumber.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="missingNumber.Solution" />
-      <module name="leetcodePractices" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="missingNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.findDuplicates.Solution" />
         <item itemvalue="Application.productExceptSelf.Solution" />
         <item itemvalue="Application.construct2DArray.Solution" />
         <item itemvalue="Application.singleNumber.Solution" />
-        <item itemvalue="Application.missingNumber.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662213659285</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="added new exercises">
+      <created>1662382984484</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1662382984484</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,5 +286,16 @@
     <MESSAGE value="add mergeTwoLists" />
     <MESSAGE value="added new exercises" />
     <option name="LAST_COMMIT_MESSAGE" value="added new exercises" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/longestPalindrome/Solution.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
