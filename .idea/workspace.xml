@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9fbb062-2cc8-4fdd-a22b-7bf97437515c" name="Changes" comment="added new exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/swapPairs/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/permutations/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,73 +46,6 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="mergeTwoLists" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Solution" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="longestPalindrome.Solution" />
-      <module name="leetcodePractices" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="longestPalindrome.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="construct2DArray.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct2DArray.Solution" />
-      <module name="leetcodePractices" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="construct2DArray.*" />
-          <option name="ENABLED" value="false" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="findDuplicates.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="findDuplicates.Solution" />
-      <module name="leetcodePractices" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="findDuplicates.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="productExceptSelf.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="productExceptSelf.Solution" />
-      <module name="leetcodePractices" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="productExceptSelf.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="singleNumber.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="singleNumber.Solution" />
-      <module name="leetcodePractices" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="singleNumber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -326,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663263565516</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="added new exercises">
+      <created>1663329808137</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1663329808137</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
