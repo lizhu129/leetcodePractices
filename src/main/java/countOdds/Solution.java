@@ -1,5 +1,7 @@
 package countOdds;
 
+import java.util.Arrays;
+
 public class Solution {
     public int countOdds(int low, int high) {
         int n = high - low + 1;
