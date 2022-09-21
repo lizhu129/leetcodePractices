@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9fbb062-2cc8-4fdd-a22b-7bf97437515c" name="Changes" comment="added new exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/largestPerimeter/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/maxSubArray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nearestValidPoint/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tribonacci/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maxProfit/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/maxProfit/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -373,7 +372,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663742739803</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="added new exercises">
+      <created>1663756006834</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1663756006834</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
