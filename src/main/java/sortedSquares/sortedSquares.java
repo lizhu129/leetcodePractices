@@ -1,3 +1,5 @@
+package sortedSquares;
+
 import java.util.Arrays;
 
 public class sortedSquares {
