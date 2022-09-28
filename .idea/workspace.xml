@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9fbb062-2cc8-4fdd-a22b-7bf97437515c" name="Changes" comment="added new exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/diagonalSum/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interpret/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/matrixReshape/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/maximumWealth/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mergeAlternately/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sumOddLengthSubarrays/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/findTheDifference/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/toLowerCase/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,13 +58,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661455146429</updated>
-    </task>
-    <task id="LOCAL-00016" summary="added new exercises">
-      <created>1662196111710</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1662196111710</updated>
     </task>
     <task id="LOCAL-00017" summary="added new exercises">
       <created>1662201992188</created>
@@ -406,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664182945328</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="added new exercises">
+      <created>1664351246971</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1664351246971</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -458,11 +454,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/checkInclusion/fasterSolution.java</url>
           <line>45</line>
           <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/interpret/Solution.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
