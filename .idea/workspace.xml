@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9fbb062-2cc8-4fdd-a22b-7bf97437515c" name="Changes" comment="added new exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/rob/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rob/SolutionRob2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LUPrefix/LUPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/equalFrequency/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hasPathSum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/invertTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/isBalanced/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/isMonotonic/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/minSubArrayLen/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/triangleNumber/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,13 +64,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661455146429</updated>
-    </task>
-    <task id="LOCAL-00024" summary="added new exercises">
-      <created>1662988652229</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1662988652229</updated>
     </task>
     <task id="LOCAL-00025" summary="added new exercises">
       <created>1663095445027</created>
@@ -402,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664532467685</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="added new exercises">
+      <created>1664542193709</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1664542193709</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
