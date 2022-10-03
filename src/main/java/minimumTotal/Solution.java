@@ -14,6 +14,4 @@ public class Solution {
         }
         return triangle.get(0).get(0);
     }
-
-
 }
