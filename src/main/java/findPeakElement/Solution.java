@@ -8,7 +8,7 @@ public class Solution {
             if (nums[mid] > nums[mid + 1]) {
                 j = mid;
             } else {
-                i = mid + 1
+                i = mid + 1;
             }
         }
         return i;
