@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9fbb062-2cc8-4fdd-a22b-7bf97437515c" name="Changes" comment="Added new exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/isSubsequence/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrayPairSum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/findWords/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fizzBuzz/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,13 +59,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661455146429</updated>
-    </task>
-    <task id="LOCAL-00053" summary="added new exercises">
-      <created>1663870799921</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1663870799921</updated>
     </task>
     <task id="LOCAL-00054" summary="added new exercises">
       <created>1663914522277</created>
@@ -401,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666622678441</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="Added new exercises">
+      <created>1666632085702</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1666632085702</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
