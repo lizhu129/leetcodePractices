@@ -25,7 +25,7 @@ public class Solution {
                 j = mid - 1;
             }
         }
-        return Integer.MAX_VALUE;
+        return Integer.M]
     }
 
 }
