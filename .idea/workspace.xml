@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9fbb062-2cc8-4fdd-a22b-7bf97437515c" name="Changes" comment="Added new exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sortArrayByParityII/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/maximum69Number/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/findMin/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/findMin/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -57,34 +59,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661455146429</updated>
-    </task>
-    <task id="LOCAL-00057" summary="added new exercises">
-      <created>1663937313072</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1663937313072</updated>
-    </task>
-    <task id="LOCAL-00058" summary="added new exercises">
-      <created>1663945567694</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1663945567694</updated>
-    </task>
-    <task id="LOCAL-00059" summary="added new exercises">
-      <created>1664009304923</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1664009304923</updated>
-    </task>
-    <task id="LOCAL-00060" summary="added new exercises">
-      <created>1664016086129</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1664016086129</updated>
     </task>
     <task id="LOCAL-00061" summary="added new exercises">
       <created>1664091477156</created>
@@ -401,7 +375,35 @@
       <option name="project" value="LOCAL" />
       <updated>1667812231545</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="Added new exercises">
+      <created>1667813628626</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1667813628626</updated>
+    </task>
+    <task id="LOCAL-00107" summary="Added new exercises">
+      <created>1667813692178</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1667813692178</updated>
+    </task>
+    <task id="LOCAL-00108" summary="Added new exercises">
+      <created>1667813712187</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1667813712187</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Added new exercises">
+      <created>1667813760503</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1667813760503</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
