@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9fbb062-2cc8-4fdd-a22b-7bf97437515c" name="Changes" comment="Added new exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/shortestCompletingWord/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/countGoodStrings/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/distinctAverages/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,13 +59,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661455146429</updated>
-    </task>
-    <task id="LOCAL-00067" summary="added new exercises">
-      <created>1664360660508</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1664360660508</updated>
     </task>
     <task id="LOCAL-00068" summary="added new exercises">
       <created>1664363727441</created>
@@ -402,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668152257935</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="Added new exercises">
+      <created>1668161921844</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1668161921844</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -457,8 +458,8 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/shortestCompletingWord/Solution.java</url>
-          <line>44</line>
+          <url>file://$PROJECT_DIR$/src/main/java/countGoodStrings/Solution.java</url>
+          <line>34</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
