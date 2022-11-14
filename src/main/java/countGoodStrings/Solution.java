@@ -1,31 +1,29 @@
 package countGoodStrings;
 
-import java.util.HashSet;
-import java.util.Set;
+
 
 public class Solution {
 
     public static int countGoodStrings(int low, int high, int zero, int one) {
-        Set<String> set = new HashSet<>();
-        StringBuilder cur = new StringBuilder();
-        int i = 0, j = 0;
-        while ((i * zero + j * one) < low) {
-            if (cur.length() + zero <= high) {
-                cur.append(0);
-                i++;
-                if (cur.length() >= low) {
-                    set.add(cur.toString());
-                }
+        int[] dp = new int[high + 1];
+        int mod = (int) 1e9 + 7;
+        dp[one]++;
+        dp[zero]++;
+        int count = 0;
+        for (int i = 1; i <= high; i++) {
+            if (i - zero > 0) {
+                dp[i] += dp[i - zero] % mod;
+                dp[i] %= mod;
             }
-            if (cur.length() + one <= high) {
-                cur.append(1);
-                j++;
-                if (cur.length() >= low) {
-                    set.add(cur.toString());
-                }
+            if (i - one > 0) {
+                dp[i] += dp[i - one] % mod;
+                dp[i] %= mod;
+            }
+            if (i >= low && i <= high) {
+                count = (count + dp[i]) % mod;
             }
         }
-        return set.size();
+        return count;
 
     }
 
