@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9fbb062-2cc8-4fdd-a22b-7bf97437515c" name="Changes" comment="Added new exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lastStoneWeight/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thirdMax/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/applyOperations/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/averageValue/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/flipAndInvertImage/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/haveConflict/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/removeDuplicatess/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,13 +62,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661455146429</updated>
-    </task>
-    <task id="LOCAL-00075" summary="Added new exercises">
-      <created>1664708959236</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1664708959236</updated>
     </task>
     <task id="LOCAL-00076" summary="Added new exercises">
       <created>1664810471599</created>
@@ -403,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669108292994</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="Added new exercises">
+      <created>1669208099284</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1669208099284</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
