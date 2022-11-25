@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9fbb062-2cc8-4fdd-a22b-7bf97437515c" name="Changes" comment="Added new exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/applyOperations/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/averageValue/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/flipAndInvertImage/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/haveConflict/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/removeDuplicatess/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commonFactors/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/findMaxK/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sortPeople/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/unequalTriplets/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,13 +61,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661455146429</updated>
-    </task>
-    <task id="LOCAL-00076" summary="Added new exercises">
-      <created>1664810471599</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1664810471600</updated>
     </task>
     <task id="LOCAL-00077" summary="Added new exercises">
       <created>1664811357245</created>
@@ -406,7 +398,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669208099284</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="Added new exercises">
+      <created>1669280287287</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1669280287287</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
