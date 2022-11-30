@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9fbb062-2cc8-4fdd-a22b-7bf97437515c" name="Changes" comment="Added new exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/largestGoodInteger/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/numberOfCuts/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pivotInteger/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mostFrequentEven/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,13 +58,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661455146429</updated>
-    </task>
-    <task id="LOCAL-00081" summary="Added new exercises">
-      <created>1664987320033</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1664987320033</updated>
     </task>
     <task id="LOCAL-00082" summary="Added new exercises">
       <created>1664987333711</created>
@@ -404,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669470592747</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="Added new exercises">
+      <created>1669627329579</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1669627329579</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
