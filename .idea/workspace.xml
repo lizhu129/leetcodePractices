@@ -5,23 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9fbb062-2cc8-4fdd-a22b-7bf97437515c" name="Changes" comment="Added new exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/BiConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/BiFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/BiPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/BinaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/DuckHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Duckling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/LearnToSpeak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Practices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Predicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Sprint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Supplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/UnaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/SortRabbits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lambdas/TraditionalSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lambdas/TraditionalSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambdas/Practices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lambdas/Practices.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,13 +62,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661455146429</updated>
-    </task>
-    <task id="LOCAL-00095" summary="Added new exercises">
-      <created>1665992304218</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1665992304219</updated>
     </task>
     <task id="LOCAL-00096" summary="Added new exercises">
       <created>1665993885716</created>
@@ -419,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673596748985</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="Added new exercises">
+      <created>1673874123849</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1673874123850</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
